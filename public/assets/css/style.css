@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 65.5%;
+}
+
+
+#section3{
+    font-size: 2rem;
+    margin-left: 10rem;
+    margin-top: 3rem;
+}
+
+
+
+h1,h2,h3,ul,p{
+    padding: 1rem;
+   }
+
+li{
+    margin-left: 4rem;
+}
+
+footer{
+    margin-left: 1rem;
+}
